@@ -2,7 +2,7 @@
 
 ### ✨ What's New
 
-* 🏃 **Bhag Bhag Meme Trigger**
+* 🏃 **Bhag Bhag dk Meme Song Trigger**
 
   * Activates only when typing speed drops **below 10 WPM**.
   * Stops immediately when speed reaches **10+ WPM**.
